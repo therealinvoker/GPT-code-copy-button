@@ -1,7 +1,7 @@
 # GPT Code Copy Button Chrome Extension
 
 ## Description
-The GPT Code Copy Button Chrome Extension enhances your browsing experience by providing a convenient way to copy code snippets directly from web pages that contain programming examples or tutorials. With just a click of a button, you can copy code snippets to your clipboard, making it easier to use them in your projects without the hassle of manual copying.
+The GPT Code Copy Button Chrome Extension enhances your browsing experience by providing a convenient way to copy code snippets directly from the bottom of the ChatGPT code sample window. With just a click of a button, you can copy code snippets to your clipboard, making it easier to use them in your projects without the hassle of manual copying.
 
 ## Features
 - Adds a "Copy Code" button at the bottom of a code window in GPT web saving you a lot of scrolling
@@ -31,5 +31,5 @@ This project is licensed under the [MIT License](LICENSE).
 This Chrome extension was created with the help of OpenAI's GPT model and community contributions.
 
 ## Support
-If you encounter any issues or need assistance, feel free to contact the developer at [developer@example.com](mailto:developer@example.com).
+If you encounter any issues or need assistance, feel free to contact the developer at twitter @invoker.
 
